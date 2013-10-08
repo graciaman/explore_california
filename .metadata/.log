@@ -1,0 +1,12 @@
+!SESSION 2013-10-08 13:41:11.819 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_15
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2013-10-08 13:41:40.281
+!MESSAGE Unable to find Action Set: com.adobe.ide.coldfusion.ui.ExternalToolsSet
+
+!ENTRY org.eclipse.ui 4 4 2013-10-08 13:41:48.778
+!MESSAGE Unable to find Action Set: com.adobe.ide.coldfusion.ui.ExternalToolsSet
